@@ -107,6 +107,7 @@ add other awesome Kurds, including you!
 - [Mohammad Hassan](https://mohammadhassan.me): Flutter, Dart, JavaScript, React, Node.js Express, MongoDB, CSS, HTML
 - [Mohammed Bakr](https://github.com/mahammadbakr): Flutter, JavaScript, Node.js Express, React, Next.js
 - [Mohammed Hussein](https://github.com/TheKurdishProgrammer): Back-end, .NET, C#, Database, Flutter, Android, Java
+- [Muhaemn Luqman](https://www.linkedin.com/in/muhaemn): React, Vue, API, Node.js, Typescript
 - [Muhammad Azeez](https://twitter.com/@mhmd_azeez): .NET, C#, SQL, API
 - [Muhammad Ballak](https://twitter.com/MuhammedBallak)
 - [Muhammad Sarbast](https://twitter.com/Muhamme28815866)
