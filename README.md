@@ -92,6 +92,7 @@ add other awesome Kurds, including you!
 - [Hezha Amen](https://twitter.com/hezhamen): React, Node.js Dart, JavaScript
 - [Hozan Saeed](https://github.com/hozan7): Node.js React, API
 - [Ismail Ahmed](https://github.com/ismail-ahm3d): Android, Kotlin, Java
+- [Karwan Rasul](https://github.com/karwan01): Typescript, Vue, React, Dart and Flutter, Docker, Nest js, PostgreSQL, Redis 
 - [Kawa Idrees](https://github.com/Kawan-edres): Front-end, JavaScript, React, Next.js
 - [Kodo Yousif](https://twitter.com/kodo_koye): React, Node.js Electron, SQL, MongoDB
 - [Kosrat Dlshad](https://github.com/kosratdev): Android, Kotlin, Java, iOS, Swift, TypeScript, Vue
